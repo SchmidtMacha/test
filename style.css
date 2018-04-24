@@ -1,3 +1,13 @@
-body{
-	background:#000;
+
+.hot{
+	position: relative;
+	height: 3px;
+	background: black;
+}
+.bas{
+	position: relative;
+}
+.mil{
+	position: absolute;
+	top: 20px;
 }
